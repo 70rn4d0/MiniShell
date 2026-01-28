@@ -82,7 +82,7 @@ GNU Readline Library
 Building
 ```Bash
 
-git clone https://github.com/70rn4d0/42-common-core.git
+git clone https://github.com/70rn4d0/MiniShell.git
 cd MiniShell_tty
 make
 ```
